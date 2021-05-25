@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+## I am Jagveer
 <!--
 **Jagveer-Sangha/Jagveer-Sangha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Technical Skills
+- Python
+- Java
+- C
+- HTML, CSS
+- Javascript
+- VBA
