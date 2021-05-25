@@ -1,5 +1,4 @@
-### Hi there 👋 
-## I am Jagveer
+# Hello! I am Jagveer Sangha 👋 
 <!--
 **Jagveer-Sangha/Jagveer-Sangha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
