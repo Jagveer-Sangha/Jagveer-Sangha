@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - Python
 - Java
 - C
-- HTML, CSS
-- Javascript
+- HTML, CSS, Javascript
 - VBA
