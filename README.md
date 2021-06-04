@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - C
 - HTML, CSS, Javascript
 - VBA
+
+## 🌱 I’m currently learning
+- Node.js
+- React
+- Machine Learning using Python libraries
+- Automation
