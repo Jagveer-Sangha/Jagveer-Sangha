@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - VBA
 
 ## 🌱 I’m currently learning
+- Solidity
 - Node.js
 - React
 - Machine Learning using Python libraries
