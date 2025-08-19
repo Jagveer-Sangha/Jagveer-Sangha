@@ -1,4 +1,4 @@
-# Hello! I am Jagveer Sangha 👋 
+# Hello! I'm [Jagveer](https://jagveersangha.vercel.app/)👋 
 <!--
 **Jagveer-Sangha/Jagveer-Sangha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,17 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[LinkedIn](https://www.linkedin.com/in/jagveer-sangha/)
 
-## Technical Skills
-- Python
-- Java
-- C
-- HTML, CSS, Javascript
-- VBA
-
-## 🌱 I’m currently learning
-- Solidity
-- Node.js
-- React
-- Machine Learning using Python libraries
-- Automation
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jagveer-Sangha.Jagveer-Sangha)
