@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Many new projects and updates incoming
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagveer_Sangha-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagveer-sangha/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jagveer-Sangha.Jagveer-Sangha)
